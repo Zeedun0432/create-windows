@@ -61,7 +61,7 @@ case $choice in
     6)
         # Windows 1021h2
         img_file="windows2025.img"
-        iso_link="http://167.172.65.19/windows2025.img"
+        iso_link="http://167.172.65.19/windows2025.iso"
         iso_file="windows2025.iso"
         ;;
     *)
