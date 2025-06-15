@@ -55,7 +55,7 @@ case $choice in
     5)
         # Windows 11
         img_file="windows11.img"
-        iso_link="https://www.swiftuploads.com/download/eyJpdiI6IlhLWXJoKy9sZUdmT28vYXFMb1BxekE9PSIsInZhbHVlIjoiOTREWFprQzdSa1BpV09XRWsrSmFaYkhVYzk3MjBERG9Ebk4xaXhQUFZ3ND0iLCJtYWMiOiI1MWU2MTBhOWY0Njc5YTMxMjQ1ODUwYTRjMWNmMDQ5Yjg5MGJlYzU4NTYzMDY0ZmFiN2NhYzEwMDdiYTJmNjc1IiwidGFnIjoiIn0=/G-W11-24H2.P.U15.wpe64?expiration=1749970147&signature=7cd9e4509b65eab844703fd32aaee5a2d6bbc2823ad93b89027936590458fb89"
+        iso_link="http://209.97.168.3/cdn/windows11.iso"
         iso_file="windows11.iso"
         ;;
     6)
