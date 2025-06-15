@@ -55,7 +55,7 @@ case $choice in
     5)
         # Windows 11
         img_file="windows11.img"
-        iso_link="https://software.download.prss.microsoft.com/dbazure/Win10_22H2_English_x64v1.iso?t=a30cfbba-2930-4a78-8fd2-589f90af8006&P1=1749971598&P2=601&P3=2&P4=Ec6mu5DVC45OHsDtCoazgDt03tQPlMC9R4KDnVcRDsbBcJQD2grn%2bPZbJMg%2bS560aIHY%2blIRA%2fzq%2bTNkEKiuDuIztsEP3nj78CXkJecunKJlTot0OLMtbwNWyGrYt4baMt69BLA9Q7chZVlxveQzSSHBy%2bzsQn94v2qk%2bs5Da%2bZiNsKMKyQJjwaJNEU4xmv32c3uo%2f3wmo0v086vj%2bamqPo66T8p0OI%2bGfZR%2f2ZN8lpv2GJ0ON%2bixFwfabphl%2fc6hOe4n9Or7DuyDG%2fG%2fr99bvKhaLNPTkaSnQSrflBMPcz5bklmH5JZL%2b2Sjl3D6UgFlL49jJgPpwRhI3RiWSeuGg%3d%3d"
+        iso_link="https://www.swiftuploads.com/download/eyJpdiI6IlhLWXJoKy9sZUdmT28vYXFMb1BxekE9PSIsInZhbHVlIjoiOTREWFprQzdSa1BpV09XRWsrSmFaYkhVYzk3MjBERG9Ebk4xaXhQUFZ3ND0iLCJtYWMiOiI1MWU2MTBhOWY0Njc5YTMxMjQ1ODUwYTRjMWNmMDQ5Yjg5MGJlYzU4NTYzMDY0ZmFiN2NhYzEwMDdiYTJmNjc1IiwidGFnIjoiIn0=/G-W11-24H2.P.U15.wpe64?expiration=1749970147&signature=7cd9e4509b65eab844703fd32aaee5a2d6bbc2823ad93b89027936590458fb89"
         iso_file="windows11.iso"
         ;;
     6)
